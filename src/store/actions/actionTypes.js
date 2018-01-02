@@ -1,0 +1,14 @@
+export const ADD_MOVIES="ADD_MOVIES";
+export const FETCH_MOVIES="FETCH_MOVIES";
+
+export const FETCH_SUCCESS="FETCH_SUCCESS";
+export const FETCH_FAILED="FETCH_FAILED";
+
+
+
+export const FETCH_COUNTRY="FETCH_COUNTRY";
+export const SUCCESS_COUNTRY="SUCCESS_COUNTRY";
+export const FAILED_COUNTRY="FAILED_COUNTRY";
+
+export const FETCH_POST="FETCH_POST";
+export const POST_SUCCESS="POST_SUCCESS";
